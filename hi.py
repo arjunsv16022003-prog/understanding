@@ -1,4 +1,4 @@
 def hi():
-    return "Hi, World!"
+    return "Hi,World!"
 
 print(hi())
